@@ -1,5 +1,5 @@
 # QOrganizer
-An organizer application written in C++ using Qt.
+An organizer application written in Python using Qt.
 
 ## Features
 - Manage tasks and sync them with Todoist (planned)
